@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="primary">#986A50</color>
+    <color name="background">#F5F2EC</color>
+
+    <!--    Bronze color set-->
+    <color name="bronze_start">#AC836D</color>
+    <color name="bronze_mid">#AB836E</color>
+    <color name="bronze_end">#947263</color>
+    <!--    Sliver color set-->
+    <color name="sliver_start">#91908F</color>
+    <color name="sliver_early_mid">#92908E</color>
+    <color name="sliver_late_mid">#A4A3A2</color>
+    <color name="sliver_end">#B7B5B4</color>
+    <!--    gold color set-->
+    <color name="gold_start">#D8A35E</color>
+    <color name="gold_mid">#D19A56</color>
+    <color name="gold_end">#B87E3B</color>
+    <!--    diamond color set-->
+    <color name="diamond_start">#58149D</color>
+    <color name="diamond_end">#A157EA</color>
+
+
+    <color name="secondary" type="material">#403130</color>
+    <color name="dark_gray" type="material">#3C3C3C</color>
+    <color name="material_primary" type="material">#986A50</color>
+</resources>
